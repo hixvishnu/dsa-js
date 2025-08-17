@@ -37,5 +37,3 @@ var twoSum = function (nums, target) {
   }
   return [""]
 }
-
-console.log(twoSum())
